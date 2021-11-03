@@ -15,7 +15,7 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
                                                                           [Üniversite ]    ->  [Çalişanlar{ Profesor , Memur }] -> [Ofis]
 																																		|	        |           |          
 																												
-																												[Sınıflar]        [Ofisler]       [Departmanlar]
-																													   |
-																													[Ofisler]
+																																[Sınıflar]        [Ofisler]       [Departmanlar]
+																																   |
+																																[Ofisler]
 																													 
